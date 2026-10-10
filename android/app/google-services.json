@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "100678429398",
+    "project_id": "petcarehub-6db6a",
+    "storage_bucket": "petcarehub-6db6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100678429398:android:bbcd39b0dbcbbb1097b777",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100678429398-m2efuekl93hcmsjg1nd5p5u93lm1krk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAePa9euRZEIn5rKqJlR5h0lBKwHpsvI5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100678429398-m2efuekl93hcmsjg1nd5p5u93lm1krk3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "100678429398-vr4nos74cmigd0tt7qofv89gfrvpjbas.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
